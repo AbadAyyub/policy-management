@@ -1,0 +1,296 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "custid": "R-555",
+      "username": "abad",
+      "password": "12345",
+      "email": "abc@xyz.com"
+    },
+    {
+      "id": 2,
+      "custid": "R-556",
+      "username": "sanu",
+      "password": "12345",
+      "email": "qwe@xyz.com"
+    },
+    {
+      "name": "abad",
+      "username": "abad",
+      "password": "12345",
+      "address": "temp street",
+      "citizenship": "India",
+      "states": "New York",
+      "countries": "USA",
+      "email": "abc@gmail.com",
+      "gender": "Male",
+      "maritalstatuses": "Married",
+      "contactno": "9447379028",
+      "dob": "1989-11-12",
+      "regdate": "2021-02-10",
+      "idProof": "License",
+      "documentNo": "9995",
+      "id": 3
+    },
+    {
+      "name": "abad",
+      "username": "abad",
+      "password": "12345",
+      "address": "temp street",
+      "citizenship": "India",
+      "states": "New York",
+      "countries": "USA",
+      "email": "abc@gmail.com",
+      "gender": "Male",
+      "maritalstatuses": "Married",
+      "contactno": "9447379028",
+      "dob": "1989-11-12",
+      "regdate": "2021-02-10",
+      "idProof": "License",
+      "documentNo": "9995",
+      "age": 31,
+      "id": 4
+    },
+    {
+      "name": "Ruksana",
+      "username": "nunu",
+      "password": "9995",
+      "address": "temp street",
+      "citizenship": "India",
+      "states": "New York",
+      "countries": "USA",
+      "email": "abc@gmail.com",
+      "gender": "Female",
+      "maritalstatuses": "Married",
+      "contactno": "9497710246",
+      "dob": "1992-04-27",
+      "regdate": "2021-02-10",
+      "idProof": "License",
+      "documentNo": "9995",
+      "age": 28,
+      "id": 5
+    },
+    {
+      "name": "Nidhan",
+      "username": "Nidhu",
+      "password": "9995",
+      "address": "temp street",
+      "citizenship": "India",
+      "states": "New York",
+      "countries": "USA",
+      "email": "abc@gmail.com",
+      "gender": "Male",
+      "maritalstatuses": "Single",
+      "contactno": "9447379028",
+      "dob": "1998-08-12",
+      "regdate": "2021-02-12",
+      "idProof": "License",
+      "documentNo": "9995",
+      "age": 22,
+      "customerId": "R-112",
+      "id": 6
+    },
+    {
+      "age": null,
+      "customerId": "R-515",
+      "id": 7
+    },
+    {
+      "name": "asdasd",
+      "age": null,
+      "customerId": "R-152",
+      "id": 8
+    },
+    {
+      "age": null,
+      "customerId": "R-496",
+      "id": 9
+    },
+    {
+      "name": "Brock Lesnar",
+      "username": "brock",
+      "password": "12345",
+      "address": "temp street",
+      "citizenship": "American",
+      "states": "New York",
+      "countries": "USA",
+      "email": "abc@gmail.com",
+      "gender": "Male",
+      "maritalstatuses": "Single",
+      "contactno": "9447379028",
+      "dob": "1971-02-02",
+      "regdate": "2021-02-16",
+      "idProof": "License",
+      "documentNo": "9995",
+      "age": 50,
+      "customerId": "R-942",
+      "id": 10
+    },
+    {
+      "name": "Tom",
+      "username": "Lee",
+      "password": "9995",
+      "address": "temp street",
+      "citizenship": "American",
+      "states": "New York",
+      "countries": "USA",
+      "email": "abc@gmail.com",
+      "gender": "Male",
+      "maritalstatuses": "Single",
+      "contactno": "9447379028",
+      "dob": "1989-02-16",
+      "regdate": "2021-02-16",
+      "idProof": "License",
+      "documentNo": "9995",
+      "age": 32,
+      "customerId": "R-184",
+      "id": 11
+    }
+  ],
+  "policies": [
+    {
+      "id": 1,
+      "policytype": "life",
+      "policyamount": 1000,
+      "dateofactive": "12/11/2020",
+      "duration": 1,
+      "userid": 5
+    },
+    {
+      "id": 2,
+      "policytype": "annuity",
+      "policyamount": "2000",
+      "dateofactive": "12/12/2020",
+      "duration": 1,
+      "userid": 5
+    },
+    {
+      "policytype": "Annutiy",
+      "policyamount": "55",
+      "effectivedate": "2021-02-11",
+      "policyduration": "5",
+      "userid": 5,
+      "id": 3
+    },
+    {
+      "policytype": "Annutiy",
+      "policyamount": "55",
+      "effectivedate": "2021-02-11",
+      "policyduration": "5",
+      "userid": 5,
+      "id": 4
+    },
+    {
+      "policytype": "Life",
+      "policyamount": "",
+      "effectivedate": "",
+      "policyduration": "5",
+      "userid": 5,
+      "id": 5
+    },
+    {
+      "policytype": "Annutiy",
+      "policyamount": "1000",
+      "effectivedate": "2021-02-11",
+      "policyduration": "20",
+      "userid": 5,
+      "id": 6
+    },
+    {
+      "policytype": "Annutiy",
+      "policyamount": "1000",
+      "effectivedate": "2021-02-11",
+      "policyduration": "20",
+      "userid": 5,
+      "id": 7
+    },
+    {
+      "policytype": "Annutiy",
+      "policyamount": "1000",
+      "effectivedate": "2021-02-11",
+      "policyduration": "15",
+      "userid": 5,
+      "id": 8
+    },
+    {
+      "policytype": "Annutiy",
+      "policyamount": "5000",
+      "effectivedate": "2021-02-11",
+      "policyduration": "10",
+      "userid": 5,
+      "id": 9
+    },
+    {
+      "policytype": "Whole Life",
+      "policyamount": "6000",
+      "effectivedate": "2021-02-11",
+      "policyduration": "5",
+      "policyNumber": "PN-711",
+      "userid": 5,
+      "id": 10
+    },
+    {
+      "policytype": "Whole Life",
+      "policyamount": "55555",
+      "effectivedate": "2021-02-11",
+      "policyduration": "20",
+      "policyNumber": "PN-212",
+      "userid": 5,
+      "id": 11
+    },
+    {
+      "policytype": "Whole Life",
+      "policyamount": "9995",
+      "effectivedate": "2021-02-20",
+      "policyduration": "5",
+      "policyNumber": "PN-130",
+      "userid": 5,
+      "id": 12
+    },
+    {
+      "policytype": "Annutiy",
+      "policyamount": "2255",
+      "effectivedate": "2021-02-12",
+      "policyduration": "5",
+      "policyNumber": "PN-415",
+      "userid": 1,
+      "id": 13
+    },
+    {
+      "policytype": "Whole Life",
+      "policyamount": "100000",
+      "effectivedate": "2021-02-12",
+      "policyduration": "5",
+      "policyNumber": "PN-109",
+      "userid": 1,
+      "id": 14
+    },
+    {
+      "policytype": "Whole Life",
+      "policyamount": "1000",
+      "effectivedate": "2021-02-16",
+      "policyduration": "10",
+      "policyNumber": "PN-235",
+      "userid": 5,
+      "id": 15
+    },
+    {
+      "policytype": "Whole Life",
+      "policyamount": "10000",
+      "effectivedate": "2021-02-16",
+      "policyduration": "10",
+      "policyNumber": "PN-408",
+      "userid": 10,
+      "id": 16
+    },
+    {
+      "policytype": "Whole Life",
+      "policyamount": "100000",
+      "effectivedate": "2021-02-16",
+      "policyduration": "20",
+      "policyNumber": "PN-508",
+      "userid": 5,
+      "id": 17
+    }
+  ]
+}
